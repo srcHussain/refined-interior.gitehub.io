@@ -9,45 +9,34 @@ gtag_id = "EMPTY"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Featured"
+description = "Porducts you can find"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "Bed Sheet Sets"
+description = "The best Bed Sheet Set"
+url = "https://amzn.to/42PyonT"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "Murphy Bed"
+description = "A peace of art for small apartments and homes"
+url = "https://amzn.to/3RYJFMo"
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
+title = "Sponge Holder"
+description = "A Product that will give your Kitchen a glow up"
+url = "https://amzn.to/3Eszo8e"
 
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
+description = "We are available on the following websites"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
-[[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "https://www.instagram.com/re.fined_interior"
+
