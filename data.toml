@@ -9,7 +9,7 @@ gtag_id = "EMPTY"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
-title = "Featured"
+title = "Featured ⭐"
 description = "Porducts you can find"
 direction = "column"
 item_style = "outline"
