@@ -1,11 +1,11 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
-theme = "dark"
-primary_color = "#d81b60"
+name = "Refined Interior"
+description = "amazing amazon products that you may want to have."
+keywords = "amazon, us, unitedstates, products."
+image = "17431922_job204-wan-18.jpg"
+theme = "light"
+primary_color = "#F5DBDA"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
+gtag_id = "EMPTY"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
