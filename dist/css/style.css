@@ -7,6 +7,10 @@
 }
 
 
+.section {
+  margin-bottom: var(--block-spacing-vertical);
+}
+
 
 .items {
   display: flex;
